@@ -39,10 +39,7 @@ End-to-end automation framework integrating Claude AI agents for autonomous test
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfonso-qaeng&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonso-qaeng&theme=dark&hide_border=true&layout=compact" height="150" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=alfonso-qaeng&theme=dark&hide_border=true)](https://github.com/alfonso-qaeng)
 
 ---
 
